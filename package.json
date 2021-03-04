@@ -1,7 +1,7 @@
 {
-  "name": "hrpc-runtime",
-  "version": "2.1.1",
-  "description": "The runtime library for hrpc",
+  "name": "drpc-runtime",
+  "version": "1.0.0",
+  "description": "Runtime library for DRPC",
   "main": "index.js",
   "dependencies": {
     "arpeecee": "^2.0.0",
@@ -10,12 +10,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/hrpc-runtime.git"
+    "url": "https://github.com/dwebprotocol/drpc-runtime.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "PeepsLabs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/hrpc-runtime/issues"
+    "url": "https://github.com/dwebprotocol/drpc-runtime/issues"
   },
-  "homepage": "https://github.com/mafintosh/hrpc-runtime"
+  "homepage": "https://dwebx.org"
 }
