@@ -2,7 +2,7 @@ const { EventEmitter } = require('events')
 const fs = require('fs')
 const net = require('net')
 
-class HRPCServer extends EventEmitter {
+class DRPCServer extends EventEmitter {
   constructor (Session, server, onclient) {
     super()
     if (onclient) this.on('client', onclient)
@@ -54,14 +54,14 @@ class HRPCServer extends EventEmitter {
   }
 }
 
-module.exports = class HRPC extends EventEmitter {
+module.exports = class DRPC extends EventEmitter {
   static createServer (src, onclient) {
     if (typeof src === 'function') {
       onclient = src
       src = null
     }
     const server = isEventEmitter(src) ? src : net.createServer()
-    return new HRPCServer(this, server, onclient)
+    return new DRPCServer(this, server, onclient)
   }
 
   static connect (dest) {
