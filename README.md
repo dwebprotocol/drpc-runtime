@@ -1,16 +1,16 @@
-# drpc-runtime
+# dwrpc-runtime
 
-The runtime library for [drpc](https://github.com/dwebprotocol/drpc).
+The runtime library for [dwrpc](https://github.com/dwebprotocol/dwrpc).
 
-Remember to include this as a dependency in your drpc projects.
+Remember to include this as a dependency in your dwrpc projects.
 
 ```
-npm install drpc-runtime
+npm install dwrpc-runtime
 ```
 
 ## Usage
 
-See [drpc_dweb](https://github.com/dwebprotocol/drpc).
+See [dwrpc](https://github.com/dwebprotocol/dwrpc).
 
 ## License
 

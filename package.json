@@ -1,7 +1,7 @@
 {
-  "name": "drpc-runtime",
-  "version": "1.0.1",
-  "description": "Runtime library for DRPC",
+  "name": "dwrpc-runtime",
+  "version": "1.0.0",
+  "description": "Runtime library for DWRPC",
   "main": "index.js",
   "dependencies": {
     "arpeecee": "^2.0.0",
