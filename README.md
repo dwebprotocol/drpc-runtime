@@ -1,4 +1,4 @@
-# drpc-dweb-runtime
+# drpc-runtime
 
 The runtime library for [drpc](https://github.com/dwebprotocol/drpc).
 
