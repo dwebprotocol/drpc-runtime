@@ -1,5 +1,5 @@
 {
-  "name": "drpc_dweb-runtime",
+  "name": "drpc-dweb-runtime",
   "version": "1.0.0",
   "description": "Runtime library for DRPC",
   "main": "index.js",
