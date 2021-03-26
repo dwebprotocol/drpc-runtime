@@ -1,16 +1,16 @@
-# hrpc-runtime
+# dwrpc-runtime
 
-The runtime library for [hrpc](https://github.com/mafintosh/hrpc).
+The runtime library for [dwrpc](https://github.com/dwebprotocol/dwrpc).
 
-Remember to include this as a dependency in your hrpc projects.
+Remember to include this as a dependency in your dwrpc projects.
 
 ```
-npm install hrpc-runtime
+npm install dwrpc-runtime
 ```
 
 ## Usage
 
-See [hrpc](https://github.com/mafintosh/hrpc).
+See [dwrpc](https://github.com/dwebprotocol/dwrpc).
 
 ## License
 
