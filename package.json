@@ -10,12 +10,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/dwebprotocol/hrpc-runtime.git"
+    "url": "https://github.com/dwebprotocol/drpc-runtime.git"
   },
   "author": "peeps (@peepslabs)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dwebprotocol/hrpc-runtime/issues"
+    "url": "https://github.com/dwebprotocol/drpc-runtime/issues"
   },
-  "homepage": "https://github.com/dwebprotocol/hrpc-runtime"
+  "homepage": "https://github.com/dwebprotocol/drpc-runtime"
 }
